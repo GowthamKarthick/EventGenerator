@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<employees> 
+   <employee id="100">
+    <firstName>1</firstName>
+    <lastName>Mishra</lastName>
+    <location>Bangalore</location>
+  </employee>
+   <employee id="101">
+
+    <firstName>2</firstName>
+    <lastName>Davis</lastName>
+    <location>Chennai</location>
+  </employee>
+   <employee id="102">
+
+    <firstName>3</firstName>
+    <lastName>Sharma</lastName>
+    <location>Pune</location>
+  </employee>
+</employees>
+
