@@ -14,7 +14,7 @@ public class GenerateJson {
    public JSONObject getJson() {
    JSONObject js = new JSONObject();
       try {
-        File inputFile = new File("xml/employees.xml");
+        File inputFile = new File("employees.xml");
         DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
         DocumentBuilder db = dbf.newDocumentBuilder();
         Document doc = db.parse(inputFile);
